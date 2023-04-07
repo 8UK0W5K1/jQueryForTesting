@@ -1,0 +1,13 @@
+{
+  "name": "p12_front-end",
+  "version": "1.0.0",
+  "description": "Welcome to HRnet! This is our company's internal application to create and view employee records.",
+  "main": "app.js",
+  "homepage": "https://8uk0W5k1.github.io/jqueryfrontend",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "author": "",
+  "license": "ISC"
+}
